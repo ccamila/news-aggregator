@@ -1,0 +1,16 @@
+node_modules
+.next
+.git
+.gitignore
+.env*.local
+.vercel
+.vscode
+*.md
+*.mdx
+*.log
+.cache
+.DS_Store
+.env*.local
+.env
+coverage
+.idea
